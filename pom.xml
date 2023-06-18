@@ -8,7 +8,7 @@
   <name>01-maven-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <maven.plugin.validation>verbose</maven.plugin.validation>
+    <maven.plugin.validation>VERBOSE</maven.plugin.validation>
   </properties>
   <dependencies>
     <dependency>
